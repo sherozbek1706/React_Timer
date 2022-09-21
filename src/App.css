@@ -1,0 +1,25 @@
+.App{
+  width: 500px;
+  height: 400px;
+  background-color: #555;
+  border-radius: 7px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+}
+.App h1{
+  color:black;
+}
+.App p{
+  font-size: 40px;
+}
+.App button{
+  width: 200px;
+  height: 50px;
+  margin:  10px 0;
+  background-color: #111 ;
+  font-weight: 700 ;
+  color: white ;
+}
